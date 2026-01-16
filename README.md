@@ -8,6 +8,8 @@ This updater script utilises the [CSR API](https://download-api.csrestored.com/)
 
 It also supports the creation of new directories which should allow the CSR team to push updates which may require new directories instead of just new files.
 
+The script assumes you have already correctly installed CSR. If you haven't, go through their support on Discord for the latest instructions. The Discord should be linked on the [CSR website](https://csrestored.com/app).
+
 ## Usage
 
 Clone the repo:
