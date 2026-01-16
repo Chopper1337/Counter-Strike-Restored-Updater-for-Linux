@@ -18,8 +18,16 @@ Clone the repo:
 git clone https://github.com/Chopper1337/Counter-Strike-Restored-Updater-for-Linux
 ```
 
-Copy the script to your CSR game directory:
+Make the script executable:
 
 ```
-cp ./Counter-Strike-Restored-Updater-for-Linux/updater.sh /path/to/csr/
+chmod +x ./Counter-Strike-Restored-Updater-for-Linux/updater.sh
+```
+
+Copy it to your CSR game directory:
+
+(Your install directory may not be the same)
+
+```
+cp ./Counter-Strike-Restored-Updater-for-Linux/updater.sh /home/$USER/.steam/steam/ubuntu12_32/steamapps/content/app_730/depot_731/
 ```
