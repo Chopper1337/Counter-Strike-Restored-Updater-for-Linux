@@ -1,5 +1,8 @@
 # Counter-Strike: Restored Updater for Linux
 
+> [!CAUTION]
+> The CSR team has not yet created an equivalent API for their Linux client files. As a proof of concept, this version uses the currently available API which provides Windows client files.
+
 [Counter-Strike: Restored](https://csrestored.com/app)
 
 This is not an official updater for CSR. I am not a member of the CSR team.
