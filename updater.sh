@@ -17,7 +17,7 @@ DL_API_JSON() {
 
 DL_GAME_FILE() {
   echo "Downloading $1"
-  wget --quiet --progress=bar  "$DL_URL/$1" -O "./$1"
+  wget -q --show-progress "$DL_URL/$1" -O "./$1"
 }
 
 CHECK_DEPS() {
